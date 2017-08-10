@@ -4,7 +4,10 @@
   "private": true,
   "scripts": {
     "start": "node server"
-  },  
+  },
+  "dependencies": {
+    "request": "*"
+  },
 "license": "Apache",
 "engines": {
     "node": "~0.10.0 || ~4.2.0"
